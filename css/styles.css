@@ -1,0 +1,61 @@
+.top_container {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  position: relative;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.heading_1 {
+  margin: 0;
+  font-family: serif;
+}
+
+.top_cloud {
+  position: absolute;
+  right: 30px;
+  top: 40px;
+}
+
+.bottom_cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.mountain {}
+
+.luffy {
+  border-radius: 180px;
+}
+
+.myButton {
+  box-shadow: 7px 6px 7px 0px #3dc21b;
+  background-color: #44c767;
+  border-radius: 42px;
+  border: 6px solid #18ab29;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 28px;
+  padding: 32px 31px;
+  text-decoration: none;
+  text-shadow: 10px 6px 4px #2f6627;
+}
+
+.myButton:hover {
+  background-color: #5cbf2a;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+.contact-me{
+  background-color: #66bfbf;
+  top: 1px;
+}
